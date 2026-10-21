@@ -54,9 +54,5 @@ const GAMES_DATA = [
   },
 ];
 
-
-// เซิร์ฟเวอร์หลังบ้าน (สมาชิก + License + ร้านค้า + จ่ายเงิน + LIVE) — เปลี่ยนเป็นลิงก์ Worker ของคุณ
-const TAOLUNG_API = 'https://taolung-api.xxxx.workers.dev';
-
-// ตัวโปรแกรม Launcher เอง (Release ล่าสุดต้องแนบ Setup และ tag = เลขเวอร์ชันของโปรแกรม)
-const LAUNCHER_DATA = { repo: 'noandap234/taolung', asset: 'TaoLungLauncher-Setup.exe' };
+const TAOLUNG_API = 'https://taolung-api.<ของคุณ>.workers.dev';
+const LAUNCHER_DATA = { repo: 'noandap234/taolunggame', asset: 'TaoLungLauncher-Setup.exe' };
