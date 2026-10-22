@@ -62,6 +62,16 @@ const GAMES_DATA = [
     needsBridge: true,
     icon: 'icon.png',
   },
+    {
+    id: 'taolungwar',
+    title: 'taolung war',
+    desc: 'สงคราม',
+    repo: 'noandap234/TLWar',
+    asset: 'war.exe',
+    exe: 'war.exe',
+    needsBridge: true,
+    icon: 'icon.png',
+  },
 ];
 
 const TAOLUNG_API = 'https://taolung-api.noandap234.workers.dev';
