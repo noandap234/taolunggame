@@ -52,6 +52,16 @@ const GAMES_DATA = [
     needsBridge: true,
     icon: 'icon.png',
   },
+  {
+    id: 'Kiraeveboat',
+    title: 'Kiraeve boat',
+    desc: 'แข่งเรือ',
+    repo: 'noandap234/boatracing',
+    asset: 'boat.exe',
+    exe: 'boat.exe',
+    needsBridge: true,
+    icon: 'icon.png',
+  },
 ];
 
 const TAOLUNG_API = 'https://taolung-api.noandap234.workers.dev';
