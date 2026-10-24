@@ -66,4 +66,4 @@ const GAMES_DATA = [
 ];
 
 const TAOLUNG_API = 'https://taolung-api.noandap234.workers.dev';
-const LAUNCHER_DATA = { repo: 'noandap234/taolunggame', asset: 'TaoLungLauncher-Setup.exe' };
+const LAUNCHER_DATA = { repo: 'noandap234/taolunggame', asset: 'TaoLunggame.exe' };
