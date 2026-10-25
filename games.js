@@ -63,6 +63,16 @@ const GAMES_DATA = [
     needsBridge: true,
     icon: 'icon.png',
   },
+  {
+    id: 'kiraeveRoad',
+    title: 'kiraeve Road',
+    desc: 'วิ่งหลบรถ',
+    repo: 'noandap234/KiraeveRoad',
+    asset: 'road.exe',
+    exe: 'road.exe',
+    needsBridge: true,
+    icon: 'icon.png',
+  },
 ];
 
 const TAOLUNG_API = 'https://taolung-api.noandap234.workers.dev';
